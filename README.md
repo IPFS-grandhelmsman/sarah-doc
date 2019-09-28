@@ -25,21 +25,33 @@ SarahOS suggested using the Linux distribution Ubuntu 16.04.
             Node basic management
         </td>
 	<td>SDK download</td>
-    	<td>Node statistics</td>
-    	<td>Node management</td>
     	<td>Provide SDK download, install to the node, then access to the SarahOS.</td>
+    </tr>
+    <tr>
+        <td></td>
+    	<td>Node statistics</td>
     	<td>Overview of all node information of account.</td>
+    </tr>
+    <tr>
+        <td></td>
+    	<td>Node management</td>
     	<td>Detail information of all nodes under the account, including dynamic data and process monitoring.</td>
+    </tr>
+    <tr>
+        <td></td>
+    	<td>Alarm management</td>
     	<td>Node alarm setup and alert notification.</td>
     </tr>
     <tr>
         <td rowspan="2">
             Task distribution
         </td>
-    	<td>Alarm management</td>
     	<td>Task pane</td>
-    	<td>Application center</td>
     	<td>Write a Script using built-in programming language to assign tasks to nodes.</td>
+    </tr>
+    <tr>
+        <td></td>
+    	<td>Application center</td>
     	<td>Add applications to the desktop and install existing applications to batch notes.</td>
     </tr>
     <tr>
@@ -47,10 +59,16 @@ SarahOS suggested using the Linux distribution Ubuntu 16.04.
             Secondary application
         </td>
     	<td>IPFS</td>
-    	<td>IPFS</td>
-    	<td>Filecoin</td>
     	<td>IPFS installing program.</td>
+    </tr>
+    <tr>
+        <td></td>
+    	<td>IPFS</td>
     	<td>IPFS Storage application.</td>
+    </tr>
+    <tr>
+        <td></td>
+    	<td>Filecoin</td>
     	<td>Filecoin installing program.</td>
     </tr>
 </table>
