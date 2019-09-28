@@ -13,7 +13,7 @@ SarahOS currently supports node that access to the mainstream Linux distribution
 SarahOS suggested using the Linux distribution Ubuntu 16.04.
 
 ## Function list
-`
+
 <table>
     <tr>
     	<td>Module</td>
