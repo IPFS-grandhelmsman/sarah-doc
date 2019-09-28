@@ -4,9 +4,9 @@
 
 ### 1.1 About SarahOS
 
-	SarahOS is a lightweight distributed hardware management system, providing operation and maintenance, application batch management and block chain project mining pool function of the hardware node intelligent, currently the system integrated Filecoin mining procedures.
+SarahOS is a lightweight distributed hardware management system, providing operation and maintenance, application batch management and block chain project mining pool function of the hardware node intelligent, currently the system integrated Filecoin mining procedures.
 
-	SarahOS currently supports node that access to the mainstream Linux distribution (including: Ubuntu, CentOS, RedHat, Debian) , and if installing SarahOS SDK on the node, you can manage and schedule their own account under the node through SarahOS monitoring。
+SarahOS currently supports node that access to the mainstream Linux distribution (including: Ubuntu, CentOS, RedHat, Debian) , and if installing SarahOS SDK on the node, you can manage and schedule their own account under the node through SarahOS monitoring。
 
 ### 1.2 Version requirements
 
@@ -21,7 +21,7 @@ SarahOS suggested using the Linux distribution Ubuntu 16.04.
     	<td>Introduction</td>
     </tr>
     <tr>
-        <td rowspan="5">
+        <td rowspan="4">
             Node basic management
         </td>
 	<td>SDK download</td>
